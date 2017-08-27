@@ -1,0 +1,1 @@
+rsync -r -P /Users/chenxi/workspace/docker/docker_python_demo root@qyclark:/data/docker_files/workspace
